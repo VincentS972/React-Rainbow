@@ -1,5 +1,12 @@
 # React-Rainbow
 
+## Intoduction
+
+React-Rainbow is a React app that I have created following the instructions of an assignment during the React & Redux class I have attended as part of the NC State Software Development Bootcamp.
+The goal of this assignment was to create an app that displays a rainbow of components.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
